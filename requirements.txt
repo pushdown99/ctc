@@ -1,0 +1,10 @@
+re
+zipfile
+lxml
+nltk
+jiwer
+pandas
+numpy
+tensorflow
+matplotlib
+IPython
